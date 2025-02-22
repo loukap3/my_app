@@ -7,3 +7,4 @@ pet 2
 pet 3 rebase
 Pet 4 rebase
 pet 5 fixup
+pet 6 fixup
