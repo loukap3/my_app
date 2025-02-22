@@ -2,4 +2,3 @@ cat
 dog
 camel
 crocodile
-bird
